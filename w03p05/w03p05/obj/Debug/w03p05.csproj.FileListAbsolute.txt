@@ -1,0 +1,10 @@
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w03p05\w03p05\bin\Debug\w03p05.exe.config
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w03p05\w03p05\bin\Debug\w03p05.exe
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w03p05\w03p05\bin\Debug\w03p05.pdb
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w03p05\w03p05\obj\Debug\w03p05.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w03p05\w03p05\obj\Debug\w03p05.Form1.resources
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w03p05\w03p05\obj\Debug\w03p05.Properties.Resources.resources
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w03p05\w03p05\obj\Debug\w03p05.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w03p05\w03p05\obj\Debug\w03p05.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w03p05\w03p05\obj\Debug\w03p05.exe
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w03p05\w03p05\obj\Debug\w03p05.pdb

@@ -1,0 +1,14 @@
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\bin\Debug\net6.0\w01p01b.exe
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\bin\Debug\net6.0\w01p01b.deps.json
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\bin\Debug\net6.0\w01p01b.runtimeconfig.json
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\bin\Debug\net6.0\w01p01b.dll
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\bin\Debug\net6.0\w01p01b.pdb
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\obj\Debug\net6.0\w01p01b.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\obj\Debug\net6.0\w01p01b.AssemblyInfoInputs.cache
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\obj\Debug\net6.0\w01p01b.AssemblyInfo.cs
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\obj\Debug\net6.0\w01p01b.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\obj\Debug\net6.0\w01p01b.dll
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\obj\Debug\net6.0\refint\w01p01b.dll
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\obj\Debug\net6.0\w01p01b.pdb
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\obj\Debug\net6.0\w01p01b.genruntimeconfig.cache
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_w\w01p01b\w01p01b\obj\Debug\net6.0\ref\w01p01b.dll
